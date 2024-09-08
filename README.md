@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sivaraj7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sivaraj7/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
