@@ -16,6 +16,6 @@ class Solution {
             k-=chalk[i];
         
         }
-        return -1;
+        return 1;
 }
 }
