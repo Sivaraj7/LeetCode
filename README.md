@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sivaraj7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivaraj7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Sivaraj7/LeetCode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Sivaraj7/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sivaraj7/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sivaraj7/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Sivaraj7/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Sivaraj7/LeetCode/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sivaraj7/LeetCode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Sivaraj7/LeetCode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Sivaraj7/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
