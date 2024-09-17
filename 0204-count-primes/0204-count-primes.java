@@ -25,3 +25,36 @@ class Solution {
         return ans;
 }
 }
+/*
+class Solution {
+    public int countPrimes(int n) {
+        if (n < 2) return 0;
+
+        // Use an array to mark non-prime numbers
+        boolean[] isPrime = new boolean[n];
+        int ans = 0;
+
+        // Initialize the array to true
+        for (int i = 2; i < n; i++) {
+            isPrime[i] = true;
+        }
+
+        for (int num = 2; num * num < n; num++) {
+            if (isPrime[num]) {
+                // Mark all multiples of num starting from num*num
+                for (int mult = num * num; mult < n; mult += num) {
+                    isPrime[mult] = false;
+                }
+            }
+        }
+
+        // Count the primes
+        for (int i = 2; i < n; i++) {
+            if (isPrime[i]) {
+                ans++;
+            }
+        }
+
+        return ans;
+    }
+}*/
