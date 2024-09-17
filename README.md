@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sivaraj7/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Sivaraj7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sivaraj7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivaraj7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Sivaraj7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
 | ------- |
