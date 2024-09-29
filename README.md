@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sivaraj7/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sivaraj7/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Sivaraj7/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/Sivaraj7/LeetCode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sivaraj7/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sivaraj7/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
