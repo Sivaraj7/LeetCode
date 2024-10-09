@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivaraj7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sivaraj7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sivaraj7/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sivaraj7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sivaraj7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sivaraj7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
